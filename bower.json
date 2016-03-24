@@ -12,5 +12,8 @@
     "package.json",
     "script/",
     "test/"
-  ]
+  ],
+  "dependencies": {
+    "promise-polyfill": "PolymerLabs/promise-polyfill#^1.0.0"
+  }
 }
